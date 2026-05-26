@@ -2,7 +2,9 @@
 
 ![Banner de boas-vindas](https://img.shields.io/badge/Bem--vindo(a)-ao%20meu%20perfil-blueviolet)
 
+ 
   Sou apaixonada por tecnologia, lógica de programação e desenvolvimento de soluções simples que resolvem problemas reais
+  
 ---
 
 ## 🎓 Formação
