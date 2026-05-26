@@ -8,7 +8,7 @@
 ## 🎓 Formação
 
 - 💻 **Técnica em Informática** – Concluída  
-- 📚 **Cursando Análise e Desenvolvimento de Sistemas** – Em andamento  
+- 📚 **Análise e Desenvolvimento de Sistemas** – Em andamento  
 
 > 💡 Em constante aprendizado e evolução.
 
