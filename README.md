@@ -2,8 +2,7 @@
 
 ![Banner de boas-vindas](https://img.shields.io/badge/Bem--vindo(a)-ao%20meu%20perfil-blueviolet)
 
-Sou apaixonada por tecnologia, lógica de programação e desenvolvimento de soluções simples que resolvem problemas reais.
-
+  Sou apaixonada por tecnologia, lógica de programação e desenvolvimento de soluções simples que resolvem problemas reais
 ---
 
 ## 🎓 Formação
@@ -42,7 +41,11 @@ Sou apaixonada por tecnologia, lógica de programação e desenvolvimento de sol
 
 ## 🌟 Curiosidade
 
-> Quando não estou programando, gosto de aprender novas tecnologias, resolver desafios lógicos e planejar meu próximo projeto.  
+Quando não estou programando, sou apenas uma pessoa comum com gostos comuns:
+📖 leio tudo que cai na minha frente,
+🎮 jogo até perder a noção do tempo,
+🎵 vivo de fones de ouvido,
+🌎 aprendo idiomas como quem aprende um novo jogo – um passo de cada vez.
 
 ---
 
