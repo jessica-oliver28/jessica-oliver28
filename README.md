@@ -7,6 +7,8 @@
   
 ---
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=jessica-oliver28&theme=dark&hide_border=true&border_radius=10&locale=pt_BR)](https://git.io/streak-stats)
+
 ## 🎓 Formação
 
 - 💻 **Técnica em Informática** – Concluída  
@@ -48,16 +50,6 @@ Quando não estou programando, sou apenas uma pessoa comum com gostos comuns:
 🎮 jogo até perder a noção do tempo,
 🎵 vivo de fones de ouvido,
 🌎 aprendo idiomas como quem aprende um novo jogo – um passo de cada vez.
-
----
-
-## 📊 Estatísticas do GitHub
-
-![Jéssica's GitHub stats](https://github-readme-stats.vercel.app/api?username=jessica-oliver28&show_icons=true&theme=radical)
-
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jessica-oliver28&layout=compact&theme=radical)
-
 
 ---
 
