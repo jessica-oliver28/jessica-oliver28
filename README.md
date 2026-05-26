@@ -2,12 +2,11 @@
 
 ![Banner de boas-vindas](https://img.shields.io/badge/Bem--vindo(a)-ao%20meu%20perfil-blueviolet)
 
- 
-  Sou apaixonada por tecnologia, lógica de programação e desenvolvimento de soluções simples que resolvem problemas reais
-  
+Sou apaixonada por tecnologia, lógica de programação e desenvolvimento de soluções simples que resolvem problemas reais.
+
 ---
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=jessica-oliver28&theme=dark&hide_border=true&border_radius=10&locale=pt_BR)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=jessica-oliver28&theme=radical&hide_border=true&locale=pt_BR)](https://git.io/streak-stats)
 
 ## 🎓 Formação
 
@@ -56,7 +55,6 @@ Quando não estou programando, sou apenas uma pessoa comum com gostos comuns:
 **Obrigada por visitar meu perfil!**  
 Sinta‑se à vontade para explorar meus repositórios e entrar em contato.  
 ⭐ Se gostar de algum projeto, deixe uma estrela – ajuda muito!
-
 <!--
 **jessica-oliver28/jessica-oliver28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
