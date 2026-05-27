@@ -45,9 +45,13 @@ Sou apaixonada por tecnologia, lógica de programação e desenvolvimento de sol
 ## 🌟 Curiosidade
 
 Quando não estou programando, sou apenas uma pessoa comum com gostos comuns:
+
 📖 leio tudo que cai na minha frente,
+
 🎮 jogo até perder a noção do tempo,
+
 🎵 vivo de fones de ouvido,
+
 🌎 aprendo idiomas como quem aprende um novo jogo – um passo de cada vez.
 
 ---
